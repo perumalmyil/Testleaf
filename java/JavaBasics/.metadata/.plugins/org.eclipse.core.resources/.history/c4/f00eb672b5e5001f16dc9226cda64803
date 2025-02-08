@@ -1,0 +1,14 @@
+package Week3.InheritanceCombination;
+
+public class Element {
+	public void dropdown()
+	{
+		System.out.println("this method dropdown from Element class");
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

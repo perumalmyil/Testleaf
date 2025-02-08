@@ -1,0 +1,10 @@
+package Week3.InheritanceCombination;
+
+public class Button {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

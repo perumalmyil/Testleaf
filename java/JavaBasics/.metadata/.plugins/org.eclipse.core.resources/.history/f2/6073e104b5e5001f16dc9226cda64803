@@ -1,0 +1,11 @@
+package Week3.InheritanceCombination;
+
+public class CheckBoxButton extends Button{
+	
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

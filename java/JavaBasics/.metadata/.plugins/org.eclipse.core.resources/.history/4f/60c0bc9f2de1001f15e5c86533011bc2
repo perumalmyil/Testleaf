@@ -1,0 +1,17 @@
+package Week3.Classroom;
+
+public class Java {
+	public void reportStep() {
+		System.out.println("without arguments");
+	}
+	public void reportStep(int a,String b) {
+		System.out.println("with int and String in argument");
+	}
+	public void reportStep(String b, int a) {
+		System.out.println("with String as first and int as next in argument");
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

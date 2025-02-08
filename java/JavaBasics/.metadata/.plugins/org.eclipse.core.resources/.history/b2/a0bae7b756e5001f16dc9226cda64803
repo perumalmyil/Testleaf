@@ -1,0 +1,21 @@
+package Week3.day5;
+
+public class ReverseOddWordsinString {
+
+	public static void main(String[] args) {
+		String test="I am a software tester";
+		String[] split = test.split(" ");
+		for (int i = 0; i < split.length; i++) {
+			if(i%2!=0)
+			{
+				char[] chars = Character.toChars(i);
+				for(char c:chars)
+				{
+					System.out.print(c+" ");
+				}
+			}
+		}
+
+	}
+
+}

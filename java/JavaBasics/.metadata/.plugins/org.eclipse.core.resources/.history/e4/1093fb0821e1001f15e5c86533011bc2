@@ -1,0 +1,9 @@
+package Week3.Classroom;
+
+public class Safari extends Browse{
+
+	public static void main(String[] args) {
+		
+	}
+
+}

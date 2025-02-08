@@ -1,0 +1,21 @@
+package Week3.day6;
+
+public class TestData {
+	
+	public String enterCredentials(int a)
+	{
+		return null;
+		
+	}
+	public String navigateToHomePage()
+	{
+		return null;
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

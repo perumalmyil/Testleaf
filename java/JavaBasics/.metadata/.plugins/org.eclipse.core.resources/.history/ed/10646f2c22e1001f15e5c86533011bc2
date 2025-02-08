@@ -1,0 +1,15 @@
+package Week3.Classroom;
+
+public class Chrome extends Browse{
+	public void openIncognito() {
+		System.out.println("open Incognito from chrome class");
+	}
+	public void clearCache() {
+		System.out.println("clear cahce form chrome class");
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

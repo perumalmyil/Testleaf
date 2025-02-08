@@ -1,0 +1,15 @@
+package Week3.Classroom;
+
+public class Edge extends Browse{
+
+	public void takeSnap() {
+		System.out.println("take snap from Edge class");
+	}
+	public void clearCookies() {
+		System.out.println("clear cookie from Edge class");
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

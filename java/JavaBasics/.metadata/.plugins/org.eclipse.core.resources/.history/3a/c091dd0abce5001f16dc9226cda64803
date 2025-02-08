@@ -1,0 +1,26 @@
+package Week3.MethodOverriding;
+
+public class BasePage {
+	public void findElement()
+	{
+		System.out.println("findelement this mehtod is form basepage class");
+	}
+	public void clickElement()
+	{
+		System.out.println("click element this mehtod is form basepage class");
+	}
+	public void enterText()
+	{
+		
+	}
+	public void performCommonTasks()
+	{
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

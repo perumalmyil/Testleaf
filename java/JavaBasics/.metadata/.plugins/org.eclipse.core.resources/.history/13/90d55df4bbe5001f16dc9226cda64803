@@ -1,0 +1,26 @@
+package Week3.MethodOverriding;
+
+public class BasePage {
+	public void findElement()
+	{
+		
+	}
+	public void clickElement()
+	{
+		
+	}
+	public void enterText()
+	{
+		
+	}
+	public void performCommonTasks()
+	{
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

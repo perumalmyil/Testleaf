@@ -1,0 +1,20 @@
+package Week3.InheritanceCombination;
+
+public class WebElement {
+	public void click()
+	{
+		System.out.println("this method from BaseClass,method click ");
+	}
+	public String setText(String text)
+	{
+		System.out.println("this method will return string from Baseclass");
+		return text;
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package Week3.day5;
+
+public class New {
+
+	public static void main(String[] args) {
+		String s="thiru";
+		s="Myil";
+		System.out.println(s);
+
+	}
+
+}

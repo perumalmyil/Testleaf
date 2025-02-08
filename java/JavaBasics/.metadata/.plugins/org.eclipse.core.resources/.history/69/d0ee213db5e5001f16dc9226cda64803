@@ -1,0 +1,14 @@
+package Week3.InheritanceCombination;
+
+public class RadioButton extends Button{
+	public void selectRadioButton()
+	{
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

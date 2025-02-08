@@ -1,0 +1,10 @@
+package Week3.Classroom;
+
+public class Browse {
+
+	public static void main(String[] args) {
+		 String browserName="browserName_from baseclass";
+		 String browserVersion="version_from baseclass";
+	}
+
+}

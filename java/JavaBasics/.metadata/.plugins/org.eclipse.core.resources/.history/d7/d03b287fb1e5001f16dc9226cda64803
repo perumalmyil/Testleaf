@@ -1,0 +1,17 @@
+package Week3.day6;
+
+public class LoginTestData extends TestData {
+	public void enterUsername()
+	{
+		
+	}
+	public void enterPassword()
+	{
+		
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}
